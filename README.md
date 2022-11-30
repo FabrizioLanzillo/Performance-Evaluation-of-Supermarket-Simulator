@@ -1,5 +1,5 @@
-# PECSN-Supermarket
-Project for the **Performance Evaluation of Computer Systems and Networks** (MSc Computer Engineering at University of Pisa, A.Y. 2021-22), made by Riccardo Sagramoni, Niko Salamini and Fabrizio Lanzillo.
+# Performance-Evaluation-of-Supermarket-Simulator
+Project for the **Performance Evaluation of Computer Systems and Networks** (MSc Computer Engineering at University of Pisa, A.Y. 2021-22).
 
 The aim of the project was to design and develop with **Omnet++ 5.7** a simulator of a supermarket, then evaluate its performance in several meaningful scenarios.
 
@@ -22,3 +22,8 @@ Compare the ***queueing and response time*** of the two options under a varying 
 at least the following scenarios must be evaluated:
 - <ins>Exponential</ins> distribution of interarrival times and service demands.
 - <ins>Lognormal</ins> distribution of service demands.
+
+## Authors
+- [Fabrizio Lanzillo](https://github.com/FabrizioLanzillo)
+- [Riccardo Sagramoni](https://github.com/RiccardoSagramoni)
+- [Niko Salamini](https://github.com/NikoSalamini)
